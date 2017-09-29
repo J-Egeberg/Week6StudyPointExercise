@@ -20,7 +20,7 @@ Cookies are saved in the client computer and beyond the browser. Cookies are a s
 
 ## Day2
 
-https://docs.google.com/document/d/1KvaQSv9o7cEK7SG9POvyNOkA6eHjyyPBN1cGQLny1T8/edit#heading=h.umij3f4rgtjf 
+https://docs.google.com/document/d/1KvaQSv9o7cEK7SG9POvyNOkA6eHjyyPBN1cGQLny1T8/edit?usp=sharing
 
 ## Day3
 
